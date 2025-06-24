@@ -1,2 +1,2 @@
-# PermissoesArquivosLinux
+# Permissões de acesso a arquivos no Linux
 Atividade prática desenvolvida como parte do curso de Cybersecurity da Google. Aqui, demonstro domínio do terminal Linux em um contexto realista: verificação de permissões, interpretação de acessos e alteração de arquivos e diretórios usando comandos como chmod e ls -la. Mais do que executar comandos, busquei explicar cada etapa de forma didática, em português, tornando o conteúdo acessível mesmo para quem não tem experiência com Linux. Essa atividade simula uma situação onde é necessário garantir a segurança e o controle de acesso a dados sensíveis, reforçando a importância da gestão de permissões para a integridade das informações em ambientes profissionais.
